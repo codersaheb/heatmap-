@@ -1,12 +1,13 @@
 {
-  "version": 17,
-  "lastUpdated": "2025-12-15",
+  "version": 18,
+  "lastUpdated": "2025-12-20",
   "flags": [
     "f2",
     "f6",
     "f8",
     "f9",
     "f13",
-    "f17"
+    "f17",
+    "f18"
   ]
 }
