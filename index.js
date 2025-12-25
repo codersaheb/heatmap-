@@ -8,9 +8,9 @@ const path = "./data.json";
 
 // CONFIG
 const START_DATE = moment("2025-12-13");
-const END_DATE = moment("2025-12-20");
+const END_DATE = moment("2025-12-25");
 const TOTAL_COMMITS = 24;
-const UNIQUE_DAYS = 9;
+const UNIQUE_DAYS = 7;
 
 // Human-like commit messages
 const messages = [
